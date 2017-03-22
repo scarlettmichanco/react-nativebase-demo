@@ -18,3 +18,6 @@ Demo of nativebase tutorial
   - `cd yourNativebaseDemo` 
   - `npm install native-base --save `
   - `rnpm link`
+
+
+Now you can test whether or not that worked by running `react-native run-ios`
