@@ -2,7 +2,7 @@
 Demo of nativebase tutorial
 ## Getting Started
 
-### iOS
+    ### iOS
 
   - `brew install node`
   - `brew install watchman`
