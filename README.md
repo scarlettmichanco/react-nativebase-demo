@@ -6,3 +6,5 @@ Demo of nativebase tutorial
   - `brew install node`
   - `brew install node`
 
+### Install React-Native CLI
+  - `npm install -g react-native-cli`
