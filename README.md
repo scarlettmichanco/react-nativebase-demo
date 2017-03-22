@@ -26,4 +26,4 @@ From here we will be making a single codebase for our iOS and Android UI's so to
 
 Then inside your `index.ios.js` and `index.android.js` files, add this:
 ```import App from './app';
-export default App;`
+export default App;```
