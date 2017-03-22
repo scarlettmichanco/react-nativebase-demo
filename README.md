@@ -25,5 +25,6 @@ Now you can test whether or not that worked by running `react-native run-ios`
 From here we will be making a single codebase for our iOS and Android UI's so to start that create a file named `app.js`
 
 Then inside your `index.ios.js` and `index.android.js` files, add this:
-```import App from './app';
-export default App;```
+
+    import App from './app' ;
+    export default App;
