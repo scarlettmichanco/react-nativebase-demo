@@ -13,5 +13,8 @@ Demo of nativebase tutorial
 ### Install React-Native Package Manager (rnpm)
   - `npm install rnpm -g`
 
-    Create your react-native nativebase project
+### Create your react-native nativebase project
   - `react-native init yourNativebaseDemo`
+  - `cd yourNativebaseDemo` 
+  - `npm install native-base --save `
+  - `rnpm link`
